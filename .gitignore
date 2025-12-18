@@ -1,0 +1,15 @@
+markdowns/
+
+# Ignore build artifacts
+build/
+bin/
+*.o
+*.exe
+
+# Ignore strategy logs and data
+trade_log.csv
+*.log
+
+# Ignore IDE specific files
+.vscode/
+.idea/
